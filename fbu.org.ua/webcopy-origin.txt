@@ -1,0 +1,112 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\fbu.org.ua\ajax\libs\jquery\3.2.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://fbu.org.ua/assets/cache/images/2/8/3075/images/photo_2022-11-14_21-45-05-800x-e92.jpg
+File Name: C:\Downloaded Web Sites\fbu.org.ua\assets\cache\images\2\8\3075\images\photo_2022-11-14_21-45-05-800x-e92.jpg
+Content Type: image/jpeg
+
+Uri: https://fbu.org.ua/assets/cache/images/assets/galleries/6/a8d1b857-6850-4379-96d2-b02b2008a150-350x250-d04.jpeg
+File Name: C:\Downloaded Web Sites\fbu.org.ua\assets\cache\images\assets\galleries\6\a8d1b857-6850-4379-96d2-b02b2008a150-350x250-d04.jpeg
+Content Type: image/jpeg
+
+Uri: https://fbu.org.ua/assets/cache/images/assets/galleries/6/buka-full-1_page-0001-350x250-15b.jpg
+File Name: C:\Downloaded Web Sites\fbu.org.ua\assets\cache\images\assets\galleries\6\buka-full-1_page-0001-350x250-15b.jpg
+Content Type: image/jpeg
+
+Uri: https://fbu.org.ua/assets/cache/images/assets/galleries/6/dim_logo-350x250-210.png
+File Name: C:\Downloaded Web Sites\fbu.org.ua\assets\cache\images\assets\galleries\6\dim_logo-350x250-210.png
+Content Type: image/png
+
+Uri: https://fbu.org.ua/assets/cache/images/assets/galleries/6/first-logo-350x250-d06.jpg
+File Name: C:\Downloaded Web Sites\fbu.org.ua\assets\cache\images\assets\galleries\6\first-logo-350x250-d06.jpg
+Content Type: image/jpeg
+
+Uri: https://fbu.org.ua/assets/cache/images/assets/galleries/6/grin-hill-350x250-952.jpg
+File Name: C:\Downloaded Web Sites\fbu.org.ua\assets\cache\images\assets\galleries\6\grin-hill-350x250-952.jpg
+Content Type: image/jpeg
+
+Uri: https://fbu.org.ua/assets/cache/images/assets/galleries/6/iskor-350x250-0b7.jpeg
+File Name: C:\Downloaded Web Sites\fbu.org.ua\assets\cache\images\assets\galleries\6\iskor-350x250-0b7.jpeg
+Content Type: image/jpeg
+
+Uri: https://fbu.org.ua/assets/cache/images/assets/galleries/6/kimberli-350x250-a0e.png
+File Name: C:\Downloaded Web Sites\fbu.org.ua\assets\cache\images\assets\galleries\6\kimberli-350x250-a0e.png
+Content Type: image/png
+
+Uri: https://fbu.org.ua/assets/cache/images/assets/galleries/6/logo5-350x250-09b.jpg
+File Name: C:\Downloaded Web Sites\fbu.org.ua\assets\cache\images\assets\galleries\6\logo5-350x250-09b.jpg
+Content Type: image/jpeg
+
+Uri: https://fbu.org.ua/assets/cache/images/assets/galleries/6/lviv-350x250-468.png
+File Name: C:\Downloaded Web Sites\fbu.org.ua\assets\cache\images\assets\galleries\6\lviv-350x250-468.png
+Content Type: image/png
+
+Uri: https://fbu.org.ua/assets/cache/images/assets/galleries/6/metaratings-350x250-391.jpg
+File Name: C:\Downloaded Web Sites\fbu.org.ua\assets\cache\images\assets\galleries\6\metaratings-350x250-391.jpg
+Content Type: image/jpeg
+
+Uri: https://fbu.org.ua/assets/snippets/simplefiles/icons/pdf.png
+File Name: C:\Downloaded Web Sites\fbu.org.ua\assets\snippets\simplefiles\icons\pdf.png
+Content Type: image/png
+
+Uri: https://fbu.org.ua/assets/storage/3075/1669237308558645.pdf
+File Name: C:\Downloaded Web Sites\fbu.org.ua\assets\storage\3075\1669237308558645.pdf
+Content Type: application/pdf
+
+Uri: https://fbu.org.ua/news/federation_news/3075.html
+File Name: C:\Downloaded Web Sites\fbu.org.ua\news\federation_news\3075.html
+Content Type: text/html
+
+Uri: https://fbu.org.ua/tpl/css/aos.css
+File Name: C:\Downloaded Web Sites\fbu.org.ua\tpl\css\aos.css
+Content Type: text/css
+
+Uri: https://fbu.org.ua/tpl/css/base.css
+File Name: C:\Downloaded Web Sites\fbu.org.ua\tpl\css\base.css
+Content Type: text/css
+
+Uri: https://fbu.org.ua/tpl/css/featherlight.gallery.min.css
+File Name: C:\Downloaded Web Sites\fbu.org.ua\tpl\css\featherlight.gallery.min.css
+Content Type: text/css
+
+Uri: https://fbu.org.ua/tpl/css/featherlight.min.css
+File Name: C:\Downloaded Web Sites\fbu.org.ua\tpl\css\featherlight.min.css
+Content Type: text/css
+
+Uri: https://fbu.org.ua/tpl/css/icons/style.css
+File Name: C:\Downloaded Web Sites\fbu.org.ua\tpl\css\icons\style.css
+Content Type: text/css
+
+Uri: https://fbu.org.ua/tpl/css/lightslider.min.css
+File Name: C:\Downloaded Web Sites\fbu.org.ua\tpl\css\lightslider.min.css
+Content Type: text/css
+
+Uri: https://fbu.org.ua/tpl/css/style.css
+File Name: C:\Downloaded Web Sites\fbu.org.ua\tpl\css\style.css
+Content Type: text/css
+
+Uri: https://fbu.org.ua/tpl/js/aos.js
+File Name: C:\Downloaded Web Sites\fbu.org.ua\tpl\js\aos.js
+Content Type: application/javascript
+
+Uri: https://fbu.org.ua/tpl/js/featherlight.gallery.min.js
+File Name: C:\Downloaded Web Sites\fbu.org.ua\tpl\js\featherlight.gallery.min.js
+Content Type: application/javascript
+
+Uri: https://fbu.org.ua/tpl/js/featherlight.min.js
+File Name: C:\Downloaded Web Sites\fbu.org.ua\tpl\js\featherlight.min.js
+Content Type: application/javascript
+
+Uri: https://fbu.org.ua/tpl/js/lightslider.min.js
+File Name: C:\Downloaded Web Sites\fbu.org.ua\tpl\js\lightslider.min.js
+Content Type: application/javascript
+
+Uri: https://fbu.org.ua/tpl/js/main.min.js
+File Name: C:\Downloaded Web Sites\fbu.org.ua\tpl\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://fbu.org.ua/tpl/js/project.js
+File Name: C:\Downloaded Web Sites\fbu.org.ua\tpl\js\project.js
+Content Type: application/javascript
+
